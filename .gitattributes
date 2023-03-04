@@ -1,2 +1,2 @@
 *.php linguist-language=PHP
-*.blade linguist-language=PHP
+*.blade.php linguist-language=PHP
